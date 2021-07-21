@@ -63,17 +63,17 @@ const app = {
         },
 
         {
-            name: 'Tháng tư là lời nói dối của em',
-            singer: 'Hà Anh Tuấn',
-            path: '/songs/Thang Tu La Loi Noi Doi Cua Em.mp3',
-            image: '/images/Thangtulaloinoidoicuaem.jpeg'
+            name: 'Perfect',
+            singer: 'Ed Sheeran',
+            path: '/songs/Perfect.mp3',
+            image: '/images/Perfect.jpg'
         },
 
         {
-            name: 'Tháng tư là lời nói dối của em',
-            singer: 'Hà Anh Tuấn',
-            path: '/songs/Thang Tu La Loi Noi Doi Cua Em.mp3',
-            image: '/images/Thangtulaloinoidoicuaem.jpeg'
+            name: 'Happier',
+            singer: 'Ed Sheeran',
+            path: '/songs/Happier.mp3',
+            image: '/images/Ed_Sheeran_Happier.png'
         }
     
     
